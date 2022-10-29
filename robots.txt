@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: http://hearthstone-mercenaries.net/
+
+# Sitemaps
+Sitemap: http://hearthstone-mercenaries.net/sitemap.xml
